@@ -18,5 +18,8 @@
     <website>https://github.com/kjd/idna</website>
     <source>https://github.com/Freso/script.module.idna</source>
     <email>freso.dk AT gmail.com</email>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
   </extension>
 </addon>
